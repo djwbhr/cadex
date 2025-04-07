@@ -1,3 +1,4 @@
+import "./index.css";
 export const ContactPage = () => {
-  return <div>ContactPage</div>;
+  return <div className="contactPage">ContactPage</div>;
 };
