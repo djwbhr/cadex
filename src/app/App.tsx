@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router";
 import { Contact, Home } from "../pages";
 import MainLayout from "../layouts/MainLayout";
-
+import "./App.css";
 export default function App() {
   return (
     <BrowserRouter>

@@ -1,10 +1,9 @@
-.header {
+footer {
   display: flex;
-  /* background-color: pink; */
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  border-bottom: #dadada 1px solid;
-  padding-block: 18px;
+  border-top: #dadada 1px solid;
+  padding-block: 73px;
   padding-inline: 24px;
 }
 h1 {
